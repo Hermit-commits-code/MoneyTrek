@@ -1,0 +1,15 @@
+{
+  "name": "moneytrek",
+  "version": "1.0.0",
+  "description": "A desktop financial tracker built with Electron and vanilla JS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "author": "Joseph Chu",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}
